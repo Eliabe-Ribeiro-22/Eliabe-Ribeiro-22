@@ -7,23 +7,17 @@ Gosto de **desafios**, sou **comprometido** com o que faço e busco sempre atual
 Atualmente estudo **Programação Web** na *Code Universe* e faço parte do **Treinamento Entra21 - Edição 2022 - Blusoft - ProWay**, na turma de **PHP**.
 Vou descrever abaixo as **Stacks** e **Frameworks** para **Desenvolvimento de Aplicações**, que já estudei/cursando:
 
-- Utilizo **Git/GitHub** em meus projetos
-- Faço uso das **Metodologias Ágeis**, sendo elas: **Scrum** e **Kanban**.
-
-#
+- **Git/GitHub**
+- **Metodologias Ágeis**, sendo elas: **Scrum** e **Kanban**.
 
 - **Laravel**
 - **React JS**
 - **Node JS**
 
-#
-
 - **MySQL**
 - **PostgreSQL**
 - **SQL Server**
 - **SQLite**
-
-#
 
 - **PHP**
 - **JavaScript**
