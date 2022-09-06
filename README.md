@@ -1,4 +1,4 @@
-# ***Currículo Vitae***
+# ***Curriculum Vitae***
 
 Olá, prazer em te conhecer. Eu sou **Eliabe Ribeiro Mota**, *apaixonado por TI*. Sou junior em **Desenvolvimento Web** e **Desenvolvimento de Sistemas**.
 
