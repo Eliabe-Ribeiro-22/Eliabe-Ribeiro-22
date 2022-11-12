@@ -18,7 +18,9 @@ online: adad-site.herokuapp.com
 GitHub: projeto desenvolvido para cliente, em acordo de ser privado.
 
 #### Calculadora C#
-Github: 
+Github: https://github.com/Eliabe-Ribeiro-22/Calculadora.NET
+
+Calculadora desenvolvida em Windows Forms, utilizando framework .NET Core, na linguagem C#.
 
 Vou descrever abaixo as **Stacks** e **Frameworks** para **Desenvolvimento de Aplicações**, que já estudei/cursando:
 
