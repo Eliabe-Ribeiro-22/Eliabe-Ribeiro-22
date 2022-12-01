@@ -22,6 +22,12 @@ Github: https://github.com/Eliabe-Ribeiro-22/Calculadora.NET
 
 Calculadora desenvolvida em Windows Forms, utilizando framework .NET Core, na linguagem C#.
 
+#### Desenhe com sua imaginação
+
+O game Desenhe com sua imaginação foi um projeto desenvolvido no curso de Lógica de Programação, na escola Sidy. Ele era bem simples, porém resolvi incluir mais cores ao jogo, conforme sugerido por minhas irmãs, que estão desfrutando desse jogo. 
+
+Projeto Online: http://smallbasic.com/program/?JDBM887.000
+
 Vou descrever abaixo as **Stacks** e **Frameworks** para **Desenvolvimento de Aplicações**, que já estudei/cursando:
 
 - **Git/GitHub**
