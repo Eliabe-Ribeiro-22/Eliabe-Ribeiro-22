@@ -7,22 +7,32 @@ Gosto de **desafios**, sou **comprometido** com o que faço e busco sempre atual
 Atualmente estudo **Programação Web** na *Code Universe* e faço parte do **Treinamento Entra21 - Edição 2022 - Blusoft - ProWay**, na turma de **PHP**.
 
 Projetos já desenvolvidos:
+
 #### Logo do TikTok
 
 Online: https://eliabe-ribeiro-22.github.io/Logo-do-TikTok/
 GitHub: https://github.com/Eliabe-Ribeiro-22/Logo-do-TikTok<br/>
-Projeto desenvolvido para particar meus conhecimentos em HTML & CSS. Nele, foi replicada a logo do TikTok
+Projeto desenvolvido para praticar meus conhecimentos em HTML & CSS. Nele, foi replicada a logo do TikTok
 
 #### Projeto EVA
+
+Sistema desenvolvido para a instituição EVA, utilizando Laravel, Tailwind, JS, REST e responsividade. A instituição EVA (Espaço Vida Autista) presta apoio a crianças com autismo. O projeto gerencia as consultas dos profissionais da clínica para com os pacientes, sendo que o prontuário dele pode acessada por seus responsáveis via login na plataforma.
+
 Online: projetoeva.herokuapp.com<br>
 Github: https://github.com/Eliabe-Ribeiro-22/Projeto-Eva <br>
 Projeto desenvolvido para cliente, em acordo de ser semi-público. Uma parte de seu código é público, porém partes mais sensíveis foram mantidas sob sigilo, no repositório que está deployado, mas em caráter privado.
 
 #### Projeto ADAD
-Online: https://adad-site.herokuapp.com<br>
+
+Sistema desenvolvido para grupo de escoteiros ADAD, utilizando Laravel, API externa, JS e responsividade. O ADAD é um grupo de escoterismo desenvolvido por uma igreja evangélica na cidade de Campo Belo do Sul. <br/>
+O sistema gerencia as informações dos alunos participantes do grupo, sendo acessadas pela liderança do projeto.
+
 GitHub: projeto desenvolvido para cliente, porém o código-fonte foi mantido privado por acordo entre ambas as partes.
 
-#### Calculadora C#
+Online: https://adad-site.herokuapp.com<br>
+
+#### Calculadora JS
+
 Github: https://github.com/Eliabe-Ribeiro-22/Calculadora.NET
 
 #### Desenhe com sua imaginação
@@ -30,6 +40,16 @@ Github: https://github.com/Eliabe-Ribeiro-22/Calculadora.NET
 O game Desenhe com sua imaginação foi um projeto desenvolvido no curso de Lógica de Programação, na escola Sidy. Ele era bem simples, porém resolvi incluir mais cores ao jogo, conforme sugerido por minhas irmãs, que estão desfrutando desse jogo. 
 
 Projeto Online: http://smallbasic.com/program/?JDBM887.000
+
+#### Logo do Instagram
+
+Projeto desenvolvido para realizar um clone da logo do Instagram, no ano de 2021. Utilizei HTML & CSS
+
+Online: https://eliabe-ribeiro-22.github.io/Logo-do-Instagram/
+GitHub: https://github.com/Eliabe-Ribeiro-22/Logo-do-Instagram <br/>
+
+
+
 
 Vou descrever abaixo as **Stacks** e **Frameworks** para **Desenvolvimento de Aplicações**, que já estudei/cursando:
 
