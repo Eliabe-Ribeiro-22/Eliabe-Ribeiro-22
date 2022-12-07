@@ -7,6 +7,11 @@ Gosto de **desafios**, sou **comprometido** com o que faço e busco sempre atual
 Atualmente estudo **Programação Web** na *Code Universe* e faço parte do **Treinamento Entra21 - Edição 2022 - Blusoft - ProWay**, na turma de **PHP**.
 
 Projetos já desenvolvidos:
+#### Logo do TikTok
+
+Online: https://eliabe-ribeiro-22.github.io/Logo-do-TikTok/
+GitHub: https://github.com/Eliabe-Ribeiro-22/Logo-do-TikTok<br/>
+Projeto desenvolvido para particar meus conhecimentos em HTML & CSS. Nele, foi replicada a logo do TikTok
 
 #### Projeto EVA
 Online: projetoeva.herokuapp.com<br>
@@ -19,8 +24,6 @@ GitHub: projeto desenvolvido para cliente, porém o código-fonte foi mantido pr
 
 #### Calculadora C#
 Github: https://github.com/Eliabe-Ribeiro-22/Calculadora.NET
-
-Calculadora desenvolvida em Windows Forms, utilizando framework .NET Core, na linguagem C#.
 
 #### Desenhe com sua imaginação
 
