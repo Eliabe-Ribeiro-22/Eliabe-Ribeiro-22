@@ -11,7 +11,9 @@ Projetos já desenvolvidos:
 ### Senai - Back-end em JS
 
 Repositório para o desenvolvimento dos exercícios do curso de programação Back-end em JS do Senai, no projeto Qualifica Tech.
-GitHub: 
+
+GitHub: https://github.com/Eliabe-Ribeiro-22/Senai-Back-end-JS
+
 #### Logo do TikTok
 
 Online: https://eliabe-ribeiro-22.github.io/Logo-do-TikTok/
