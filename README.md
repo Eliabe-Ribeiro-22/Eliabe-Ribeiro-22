@@ -6,7 +6,7 @@ Gosto de **desafios**, sou **comprometido** com o que faço e busco sempre atual
 
 Atualmente estudo **Programação Web** na *Code Universe* e faço parte do **Treinamento Entra21 - Edição 2022 - Blusoft - ProWay**, na turma de **PHP**.
 
-## ***Projetos já desenvolvidos***
+## ***Meus Projetos:***
 
 ### *Projetos de 2022*
 
@@ -16,9 +16,12 @@ Sistema de login desenvolvido com PHP, JS, HTML e CSS. A parte do front-end foi 
 
 Github: <https://github.com/Eliabe-Ribeiro-22/Login_TakeUniverse>
 
-#### Calculadora JS
+#### Calculadora JS (Andamento)
 
-Github: https://github.com/Eliabe-Ribeiro-22/Calculadora.NET
+Calculadora desenvolvida para revisar meus conhecimentos em HTML, CSS e JS. <br>
+Ela realiza várias operações, com fatorial, raiz quadrada, potência, multiplicação, divisão, soma e subtração com qualquer número racional.
+
+Github: <https://github.com/Eliabe-Ribeiro-22/Calculadora-JS>
 
 #### Senai - Back-end em JS
 
