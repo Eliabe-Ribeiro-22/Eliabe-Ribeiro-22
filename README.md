@@ -76,6 +76,7 @@ GitHub: https://github.com/Eliabe-Ribeiro-22/Logo-do-Instagram
 
 Projeto desenvolvido para praticar os conhecimentos adquiridos em HTML, CSS, JavaScript. Ele foi ensinado no curso da escola Code Universe.
 
+Online: <https://eliabe-ribeiro-22.github.io/Site-Semana-do-Programador-Iniciante/> <br/>
 Github: <https://github.com/Eliabe-Ribeiro-22/Site-Semana-do-Programador-Iniciante>
 
 <hr>
