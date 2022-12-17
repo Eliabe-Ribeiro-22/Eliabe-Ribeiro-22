@@ -6,7 +6,13 @@ Gosto de **desafios**, sou **comprometido** com o que faço e busco sempre atual
 
 Atualmente estudo **Programação Web** na *Code Universe* e faço parte do **Treinamento Entra21 - Edição 2022 - Blusoft - ProWay**, na turma de **PHP**.
 
-Projetos já desenvolvidos:
+## ***Projetos já desenvolvidos***
+
+### *Projetos de 2022*
+
+#### Calculadora JS
+
+Github: https://github.com/Eliabe-Ribeiro-22/Calculadora.NET
 
 ### Senai - Back-end em JS
 
@@ -14,12 +20,11 @@ Repositório para o desenvolvimento dos exercícios do curso de programação Ba
 
 GitHub: https://github.com/Eliabe-Ribeiro-22/Senai-Back-end-JS
 
-#### Logo do TikTok
+#### Desenhe com sua imaginação
 
-Online: https://eliabe-ribeiro-22.github.io/Logo-do-TikTok/
+O game Desenhe com sua imaginação foi um projeto desenvolvido no curso de Lógica de Programação, na escola Sidy. Ele era bem simples, porém resolvi incluir mais cores ao jogo, conforme sugerido por minhas irmãs, que estão desfrutando desse jogo. 
 
-GitHub: https://github.com/Eliabe-Ribeiro-22/Logo-do-TikTok<br/>
-Projeto desenvolvido para praticar meus conhecimentos em HTML & CSS. Nele, foi replicada a logo do TikTok
+Projeto Online: http://smallbasic.com/program/?JDBM887.000
 
 #### Projeto EVA
 
@@ -40,15 +45,15 @@ GitHub: projeto desenvolvido para cliente, porém o código-fonte foi mantido pr
 
 Online: https://adad-site.herokuapp.com<br>
 
-#### Calculadora JS
+#### Logo do TikTok
 
-Github: https://github.com/Eliabe-Ribeiro-22/Calculadora.NET
+Online: https://eliabe-ribeiro-22.github.io/Logo-do-TikTok/
 
-#### Desenhe com sua imaginação
+GitHub: https://github.com/Eliabe-Ribeiro-22/Logo-do-TikTok<br/>
+Projeto desenvolvido para praticar meus conhecimentos em HTML & CSS. Nele, foi replicada a logo do TikTok
 
-O game Desenhe com sua imaginação foi um projeto desenvolvido no curso de Lógica de Programação, na escola Sidy. Ele era bem simples, porém resolvi incluir mais cores ao jogo, conforme sugerido por minhas irmãs, que estão desfrutando desse jogo. 
 
-Projeto Online: http://smallbasic.com/program/?JDBM887.000
+### *Projetos de 2021*
 
 #### Logo do Instagram
 
@@ -58,9 +63,7 @@ Online: https://eliabe-ribeiro-22.github.io/Logo-do-Instagram/
 
 GitHub: https://github.com/Eliabe-Ribeiro-22/Logo-do-Instagram
 
-
-
-
+<hr>
 Vou descrever abaixo as **Stacks** e **Frameworks** para **Desenvolvimento de Aplicações**, que já estudei/cursando:
 
 - **Git/GitHub**
