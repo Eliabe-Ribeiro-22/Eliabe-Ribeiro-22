@@ -10,11 +10,17 @@ Atualmente estudo **Programação Web** na *Code Universe* e faço parte do **Tr
 
 ### *Projetos de 2022*
 
+#### Login TakeUniverse
+
+Sistema de login desenvolvido com PHP, JS, HTML e CSS. A parte do front-end foi ensinada no curso de programação web da escola Code Universe, porém resolvi introduzir um back-end para a aplicação com o PHP.
+
+Github: <https://github.com/Eliabe-Ribeiro-22/Login_TakeUniverse>
+
 #### Calculadora JS
 
 Github: https://github.com/Eliabe-Ribeiro-22/Calculadora.NET
 
-### Senai - Back-end em JS
+#### Senai - Back-end em JS
 
 Repositório para o desenvolvimento dos exercícios do curso de programação Back-end em JS do Senai, no projeto Qualifica Tech.
 
@@ -62,6 +68,12 @@ Projeto desenvolvido para realizar um clone da logo do Instagram, no ano de 2021
 Online: https://eliabe-ribeiro-22.github.io/Logo-do-Instagram/
 
 GitHub: https://github.com/Eliabe-Ribeiro-22/Logo-do-Instagram
+
+# Site Semana do Programador Iniciante
+
+Projeto desenvolvido para praticar os conhecimentos adquiridos em HTML, CSS, JavaScript. Ele foi ensinado no curso da escola Code Universe.
+
+Github: <https://github.com/Eliabe-Ribeiro-22/Site-Semana-do-Programador-Iniciante>
 
 <hr>
 Vou descrever abaixo as **Stacks** e **Frameworks** para **Desenvolvimento de Aplicações**, que já estudei/cursando:
