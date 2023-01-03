@@ -12,10 +12,6 @@ Atualmente estudo **Programação Web** na *Code Universe* e faço parte do **Tr
 
 ### **2022**
 
-#### *Cadastro de Clientes* (Andamento)
-
-#### *Palavra de Vida* (Andamento)
-
 #### *Login TakeUniverse*
 
 Sistema de login desenvolvido com PHP, JS, HTML e CSS. A parte do front-end foi ensinada no curso de programação web da escola Code Universe, porém resolvi introduzir um back-end para a aplicação com o PHP.
