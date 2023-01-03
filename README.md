@@ -10,6 +10,12 @@ Atualmente estudo **Programação Web** na *Code Universe* e faço parte do **Tr
 
 ## ***Meus Projetos:***
 
+### ***2023***
+
+#### G`PS
+
+Online: <https://eliabe-ribeiro-22.github.io/GPS-Get_Position_Site/>
+
 ### **2022**
 
 #### *Login TakeUniverse*
