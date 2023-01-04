@@ -16,9 +16,9 @@ Atualmente estudo **Programação Web** na *Code Universe* e faço parte do **Tr
 
 Projeto desenvolvido para obter a geolocalização do navegador do usuário, em que é mostrada em tela juntamente com a opção de acessar sua localização no Google Maps. Para isso utilizamos 2 API's: Google Maps e Position do Browser, HTML, CSS, JavaScript.
 
-Github: <https://github.com/Eliabe-Ribeiro-22/GPS-Get_Position_Site>
-
 Online: <https://eliabe-ribeiro-22.github.io/GPS-Get_Position_Site/>
+
+Github: <https://github.com/Eliabe-Ribeiro-22/GPS-Get_Position_Site>
 
 ### **2022**
 
@@ -74,9 +74,9 @@ Sistema desenvolvido para grupo de escoteiros ADAD, utilizando Laravel, API exte
 
 O sistema gerencia as informações dos alunos participantes do grupo, sendo acessadas pela liderança do projeto.
 
-GitHub: projeto desenvolvido para cliente, porém o código-fonte foi mantido privado por acordo entre ambas as partes.
-
 Online: <https://adad-site.herokuapp.com> (Em manutenção)
+
+GitHub: projeto desenvolvido para cliente, porém o código-fonte foi mantido privado por acordo entre ambas as partes.
 
 ----
 
