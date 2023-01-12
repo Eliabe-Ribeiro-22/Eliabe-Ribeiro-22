@@ -12,12 +12,21 @@ Atualmente estudo **Programação Web** na *Code Universe* e faço parte do **Tr
 
 ### ***2023***
 
-#### *Cadastro de Clientes* (Andamento)
+#### *GPS - Get Position Site*
 
-#### *SCI*
+Projeto desenvolvido para obter a geolocalização do navegador do usuário, em que é mostrada em tela juntamente com a opção de acessar sua localização no Google Maps. Para isso utilizamos 2 API's: Google Maps e Position do Browser, HTML, CSS, JavaScript.
 
-#### *API-Externa - CodeRepo* (Andamento)
-[null](addDescription)
+Online: <https://eliabe-ribeiro-22.github.io/GPS-Get_Position_Site/>
+
+Github: <https://github.com/Eliabe-Ribeiro-22/GPS-Get_Position_Site>
+
+----
+
+#### *Palavra de Vida* (Andamento)
+
+----
+
+### **2022**
 
 #### *API-Clima WeatherCode*
 
@@ -29,6 +38,14 @@ Github: <https://github.com/Eliabe-Ribeiro-22/API-Clima_WeatherCode>
 
 ----
 
+#### *Login TakeUniverse*
+
+Sistema de login desenvolvido com PHP, JS, HTML e CSS. A parte do front-end foi ensinada no curso de programação web da escola Code Universe, porém resolvi introduzir um back-end para a aplicação com o PHP.
+
+Github: <https://github.com/Eliabe-Ribeiro-22/Login_TakeUniverse>
+
+----
+
 #### *Codeflix*
 
 Projeto desenvolvido para recriar o site da Netflix, utilizando tecnologias do front-end. Sendo que este projeto estudado no curso de Desenvolvimento Web da escola Code Universe. 
@@ -37,28 +54,15 @@ As tecnologias utilizadas são: React.js, SASS, HTML, JavaScript
 
 Github: <https://github.com/Eliabe-Ribeiro-22/Codeflix>
 
-#### *Palavra de Vida* (Andamento)
-[null](addDescription)
+### *API-Externa - CodeRepo* (Andamento)
 
 ----
 
-#### *GPS - Get Position Site*
-
-Projeto desenvolvido para obter a geolocalização do navegador do usuário, em que é mostrada em tela juntamente com a opção de acessar sua localização no Google Maps. Para isso utilizamos 2 API's: Google Maps e Position do Browser, HTML, CSS, JavaScript.
-
-Online: <https://eliabe-ribeiro-22.github.io/GPS-Get_Position_Site/>
-
-Github: <https://github.com/Eliabe-Ribeiro-22/GPS-Get_Position_Site>
+#### *Cadastro de Clientes* (Andamento)
 
 ----
 
-### **2022**
-
-#### *Login TakeUniverse*
-
-Sistema de login desenvolvido com PHP, JS, HTML e CSS. A parte do front-end foi ensinada no curso de programação web da escola Code Universe, porém resolvi introduzir um back-end para a aplicação com o PHP.
-
-Github: <https://github.com/Eliabe-Ribeiro-22/Login_TakeUniverse>
+#### *SCI* (Andamento)
 
 ----
 
