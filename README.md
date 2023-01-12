@@ -12,13 +12,22 @@ Atualmente estudo **Programação Web** na *Code Universe* e faço parte do **Tr
 
 ### ***2023***
 
-#### *API-Clima_WeatherCode*
+#### *Cadastro de Clientes* (Andamento)
+
+#### *SCI*
+
+#### *API-Externa - CodeRepo* (Andamento)
+[null](addDescription)
+
+#### *API-Clima WeatherCode*
 
 Aplicação totalmente didática, onde foi desenvolvido uma plataforma que faz consumo de uma API externa, que traz informações sobre o clima da cidade pesquisada pelo usuário. Sendo que este projeto estudado no curso de Desenvolvimento Web na escola Code Universe. 
 
 As tecnologias utilizadas são: React.js, JSX, Api, Axios, JavaScript, CSS, HTML
 
 Github: <https://github.com/Eliabe-Ribeiro-22/API-Clima_WeatherCode>
+
+----
 
 #### *Codeflix*
 
@@ -27,6 +36,12 @@ Projeto desenvolvido para recriar o site da Netflix, utilizando tecnologias do f
 As tecnologias utilizadas são: React.js, SASS, HTML, JavaScript
 
 Github: <https://github.com/Eliabe-Ribeiro-22/Codeflix>
+
+#### *Palavra de Vida* (Andamento)
+[null](addDescription)
+
+----
+
 #### *GPS - Get Position Site*
 
 Projeto desenvolvido para obter a geolocalização do navegador do usuário, em que é mostrada em tela juntamente com a opção de acessar sua localização no Google Maps. Para isso utilizamos 2 API's: Google Maps e Position do Browser, HTML, CSS, JavaScript.
@@ -34,6 +49,8 @@ Projeto desenvolvido para obter a geolocalização do navegador do usuário, em 
 Online: <https://eliabe-ribeiro-22.github.io/GPS-Get_Position_Site/>
 
 Github: <https://github.com/Eliabe-Ribeiro-22/GPS-Get_Position_Site>
+
+----
 
 ### **2022**
 
@@ -127,7 +144,7 @@ Github: <https://github.com/Eliabe-Ribeiro-22/Site-Semana-do-Programador-Inician
 
 ----
 
-Vou descrever abaixo as **Stacks** e **Frameworks** para **Desenvolvimento de Aplicações**, que já estudei/cursando:
+E segue abaixo as **Stacks** e **Frameworks** para **Desenvolvimento de Aplicações**, que já estudei/cursando:
 
 ----
 
