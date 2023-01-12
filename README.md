@@ -20,6 +20,13 @@ As tecnologias utilizadas são: React.js, JSX, Api, Axios, JavaScript, CSS, HTML
 
 Github: <https://github.com/Eliabe-Ribeiro-22/API-Clima_WeatherCode>
 
+#### *Codeflix*
+
+Projeto desenvolvido para recriar o site da Netflix, utilizando tecnologias do front-end. Sendo que este projeto estudado no curso de Desenvolvimento Web da escola Code Universe. 
+
+As tecnologias utilizadas são: React.js, SASS, HTML, JavaScript
+
+Github: <https://github.com/Eliabe-Ribeiro-22/Codeflix>
 #### *GPS - Get Position Site*
 
 Projeto desenvolvido para obter a geolocalização do navegador do usuário, em que é mostrada em tela juntamente com a opção de acessar sua localização no Google Maps. Para isso utilizamos 2 API's: Google Maps e Position do Browser, HTML, CSS, JavaScript.
