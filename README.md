@@ -12,6 +12,14 @@ Atualmente estudo **Programação Web** na *Code Universe* e faço parte do **Tr
 
 ### ***2023***
 
+#### *API-Clima_WeatherCode*
+
+Aplicação totalmente didática, onde foi desenvolvido uma plataforma que faz consumo de uma API externa, que traz informações sobre o clima da cidade pesquisada pelo usuário. Sendo que este projeto estudado no curso de Desenvolvimento Web na escola Code Universe. 
+
+As tecnologias utilizadas são: React.js, JSX, Api, Axios, JavaScript, CSS, HTML
+
+Github: <https://github.com/Eliabe-Ribeiro-22/API-Clima_WeatherCode>
+
 #### *GPS - Get Position Site*
 
 Projeto desenvolvido para obter a geolocalização do navegador do usuário, em que é mostrada em tela juntamente com a opção de acessar sua localização no Google Maps. Para isso utilizamos 2 API's: Google Maps e Position do Browser, HTML, CSS, JavaScript.
