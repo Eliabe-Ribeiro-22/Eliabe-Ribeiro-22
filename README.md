@@ -76,13 +76,14 @@ Github: <https://github.com/Eliabe-Ribeiro-22/API_Externa-CodeRepo>
 
 ----
 
-#### *Calculadora JS* (Andamento)
+#### *Calculadora JS*
 
-Calculadora desenvolvida para revisar meus conhecimentos em HTML, CSS e JS.
+Calculadora desenvolvida semelhante a do Windows para aprimorar meus conhecimentos em HTML, CSS e JS.
 
 Ela realiza várias operações, com fatorial, raiz quadrada, potência, multiplicação, divisão, soma e subtração com qualquer número racional.
 
 Github: <https://github.com/Eliabe-Ribeiro-22/Calculadora-JS>
+Projeto no ar: <https://eliabe-ribeiro-22.github.io/Calculadora-JS/>
 
 ----
 
