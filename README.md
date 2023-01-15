@@ -60,7 +60,11 @@ As tecnologias utilizadas são: React.js, SASS, HTML, JavaScript
 
 Github: <https://github.com/Eliabe-Ribeiro-22/Codeflix>
 
-### *API-Externa - CodeRepo* (Andamento)
+### *API-Externa - CodeRepo*
+
+Aplicação totalmente didática, onde desenvolvemos uma consumimos uma API disponibilizada pelo GitHub utilizando ReactJS. Também foi utilizado Styled-components, JSX e JS.
+
+Github: <https://github.com/Eliabe-Ribeiro-22/API_Externa-CodeRepo>
 
 ----
 
