@@ -12,6 +12,16 @@ Atualmente estudo **Programação Web** na *Code Universe* e faço parte do **Tr
 
 ### ***2023***
 
+#### *Calculadora JS*
+
+Calculadora desenvolvida semelhante a do Windows para aprimorar meus conhecimentos em HTML, CSS e JS.
+
+Ela realiza várias operações, como multiplicação, divisão, soma e subtração de qualquer número inteiro ou fracionado.
+
+Github: <https://github.com/Eliabe-Ribeiro-22/Calculadora-JS>
+Projeto no ar: <https://eliabe-ribeiro-22.github.io/Calculadora-JS/>
+
+
 #### *GPS - Get Position Site*
 
 Projeto desenvolvido para obter a geolocalização do navegador do usuário, em que é mostrada em tela juntamente com a opção de acessar sua localização no Google Maps. Para isso utilizamos 2 API's: Google Maps e Position do Browser, HTML, CSS, JavaScript.
@@ -73,17 +83,6 @@ Github: <https://github.com/Eliabe-Ribeiro-22/API_Externa-CodeRepo>
 ----
 
 #### *SCI* (Andamento)
-
-----
-
-#### *Calculadora JS*
-
-Calculadora desenvolvida semelhante a do Windows para aprimorar meus conhecimentos em HTML, CSS e JS.
-
-Ela realiza várias operações, com fatorial, raiz quadrada, potência, multiplicação, divisão, soma e subtração com qualquer número racional.
-
-Github: <https://github.com/Eliabe-Ribeiro-22/Calculadora-JS>
-Projeto no ar: <https://eliabe-ribeiro-22.github.io/Calculadora-JS/>
 
 ----
 
