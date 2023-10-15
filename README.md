@@ -121,7 +121,7 @@ Sistema desenvolvido para grupo de escoteiros ADAD, utilizando Laravel, API exte
 
 O sistema gerencia as informações dos alunos participantes do grupo, sendo acessadas pela liderança do projeto.
 
-Online: <https://adad-site.herokuapp.com> (Em manutenção)
+Online: <https://adadcampobelo.com>
 
 GitHub: projeto desenvolvido para cliente, porém o código-fonte foi mantido privado por acordo entre ambas as partes.
 
