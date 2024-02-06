@@ -33,14 +33,14 @@ Github: <https://github.com/Eliabe-Ribeiro-22/GPS-Get_Position_Site>
 
 ----
 
-#### *Palavra de Vida* (Andamento)
+#### *Palavra de Vida*
 
 Este projeto foi desenvolvido com objetivo de *ajudar uma associação* de caráter beneficente, chamada **Palavra de Vida**. Nele o visitante consegue visualizar as ações desenvolvidas pela entidade e outras informações. Além disso, o usuário pode entrar em *contato* com a instituição através de um formulário apropriado, caso queira ser um sócio-contribuinte.
 
 As tecnologias utilizadas são: **Laravel**, **Arquitetura _REST_**, *Envio de email*, com a opção de ser contactado por _email_ ou _telefone_, **JavaScript**, **CSS**, **HTML**, **PHP** e Redirecionamento para What's do responsável pela instituição, quando o usuário clica no botão do What's App.
 
 Github: <https://github.com/Eliabe-Ribeiro-22/palavra_de_vida>
-
+Projeto Online: <https://ap-vida.com>
 ----
 
 ### **2022**
