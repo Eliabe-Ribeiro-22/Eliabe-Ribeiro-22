@@ -19,7 +19,7 @@ Sistema de cadastro de clientes de supermercado ou farmácia, em que o usuário 
 Github: <https://github.com/Eliabe-Ribeiro-22/Cadastro_Clientes/tree/main>
 
 #### *SCI - Sistema de Controle para Igrejas* (Andamento)
-Sistema de cadsatro de membros de uma instituição de terceiro setor, em que o administrador cadastra seus membros, preenchendo diversas informações relativas a ele. Também registra receitas de membros e despesas da instituições através de um sistema com saldos de caixa. Usamos Laravel/PHP, JavaScript, MySQL, CSS e HTML.
+Sistema de cadastro de membros de uma instituição de terceiro setor, em que o administrador cadastra seus membros, preenchendo diversas informações relativas a ele. Também registra receitas de membros e despesas da instituições através de um sistema com saldos de caixa. Usamos Laravel/PHP, JavaScript, MySQL, CSS e HTML.
 
 ### ***2023***
 
