@@ -10,6 +10,14 @@ Atualmente estudo **Programação Web** na *Code Universe* e faço parte do **Tr
 
 ## ***Meus Projetos:***
 
+### **2024**
+
+#### **CADASTRO DE CLIENTES**
+
+Sistema de cadastro de clientes de supermercado ou farmácia, em que o usuário digita seu nome, data de nascimento, CPF, cidade e celular. E assim ele cadastra na plataforma. Usei JavaScript, CSS, HTML e Laravel, um framework baseado na linguagem PHP.
+
+Github: <https://github.com/Eliabe-Ribeiro-22/Cadastro_Clientes/tree/main>
+
 ### ***2023***
 
 #### *Calculadora JS*
