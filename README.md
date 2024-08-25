@@ -1,6 +1,6 @@
 # ***Curriculum Vitae***
 
-Olá, prazer em te conhecer. Eu sou **Eliabe Ribeiro Mota**, *apaixonado por TI*. Sou junior em **Desenvolvimento Web** e **Desenvolvimento de Sistemas**.
+Olá, prazer em te conhecer. Eu sou **Eliabe Ribeiro Mota**, especialista em TI. Sou dev junior em **Desenvolvimento Web** e **Desenvolvimento de Sistemas**.
 
 Gosto de **desafios**, sou **comprometido** com o que faço e busco sempre atualizações em pesquisas na internet para estar sempre atualizado com a inovação tecnológica atual.
 
@@ -17,6 +17,9 @@ Atualmente estudo **Programação Web** na *Code Universe* e faço parte do **Tr
 Sistema de cadastro de clientes de supermercado ou farmácia, em que o usuário digita seu nome, data de nascimento, CPF, cidade e celular. E assim ele cadastra na plataforma. Usei JavaScript, CSS, HTML e Laravel, um framework baseado na linguagem PHP.
 
 Github: <https://github.com/Eliabe-Ribeiro-22/Cadastro_Clientes/tree/main>
+
+#### *SCI - Sistema de Controle para Igrejas* (Andamento)
+Sistema de cadsatro de membros de uma instituição de terceiro setor, em que o administrador cadastra seus membros, preenchendo diversas informações relativas a ele. Também registra receitas de membros e despesas da instituições através de um sistema com saldos de caixa. Usamos Laravel/PHP, JavaScript, MySQL, CSS e HTML.
 
 ### ***2023***
 
@@ -84,9 +87,6 @@ Github: <https://github.com/Eliabe-Ribeiro-22/Codeflix>
 Aplicação totalmente didática, onde desenvolvemos uma consumimos uma API disponibilizada pelo GitHub utilizando ReactJS. Também foi utilizado Styled-components, JSX e JS.
 
 Github: <https://github.com/Eliabe-Ribeiro-22/API_Externa-CodeRepo>
-
-
-#### *SCI* (Andamento)
 
 ----
 
