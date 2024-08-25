@@ -4,7 +4,7 @@ Olá, prazer em te conhecer. Eu sou **Eliabe Ribeiro Mota**, especialista em TI.
 
 Gosto de **desafios**, sou **comprometido** com o que faço e busco sempre atualizações em pesquisas na internet para estar sempre atualizado com a inovação tecnológica atual.
 
-Atualmente estudo **Programação Web** na *Code Universe* e faço parte do **Treinamento Entra21 - Edição 2022 - Blusoft - ProWay**, na turma de **PHP**.
+Concluí o curso de **Programação Web** na *Code Universe* e fiz parte do **Treinamento Entra21 - Edição 2022 - Blusoft - ProWay**, na turma de **PHP/Laravel**.
 
 ----
 
