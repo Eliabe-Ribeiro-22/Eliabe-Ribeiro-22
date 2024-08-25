@@ -85,11 +85,6 @@ Aplicação totalmente didática, onde desenvolvemos uma consumimos uma API disp
 
 Github: <https://github.com/Eliabe-Ribeiro-22/API_Externa-CodeRepo>
 
-----
-
-#### *Cadastro de Clientes* (Andamento)
-
-----
 
 #### *SCI* (Andamento)
 
