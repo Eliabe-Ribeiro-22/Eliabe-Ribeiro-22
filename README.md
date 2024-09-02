@@ -12,6 +12,10 @@ Concluí o curso de **Programação Web** na *Code Universe* e fiz parte do **Tr
 
 ### **2024**
 
+#### **Farma Plus**
+Foi criado um site de divulgação para um farmácia, com o nome fictício Farma Plus, onde o usuário visualiza os produtos existentes da farmácia, uma página com a história da farmácia e uma página para entrar em contato com a empresa. Além da logo do site, um cabeçalho com botões de navegação, e um rodapé no final do site.
+
+Link do projeto: <https://github.com/Eliabe-Ribeiro-22/Farma-Plus>
 #### **CADASTRO DE CLIENTES**
 
 Sistema de cadastro de clientes de supermercado ou farmácia, em que o usuário digita seu nome, data de nascimento, CPF, cidade e celular. E assim ele cadastra na plataforma. Usei JavaScript, CSS, HTML e Laravel, um framework baseado na linguagem PHP.
