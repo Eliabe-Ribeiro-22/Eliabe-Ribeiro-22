@@ -183,7 +183,7 @@ E segue abaixo as **Stacks** e **Frameworks** para **Desenvolvimento de Aplicaç
 - **Laravel**
 - **Expres.js**
 - **Node JS**
-
+- **Next.js**
 ----
 
 ### Bancos de Dados
