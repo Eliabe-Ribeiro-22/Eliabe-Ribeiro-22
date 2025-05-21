@@ -12,23 +12,15 @@ Concluí o curso de **Programação Web** na *Code Universe* e fiz parte do **Tr
 
 ### ***2025***
 
-#### **Labetech**
+#### **Emporio_allegria**
 
-Labetech é uma loja virtual com sistema de login.
+Foi criado um site de gestão de mercado com sistema de login integrado, com o nome fictício Emporio_alegrias, onde o usuário visualiza os clientes cadastrados, fornecedores cadastrados e produtos cadastrados, bem como adicionar mais deles, como também realizar venda de produtos com emissão de nota fiscal eletrônicas
 
-Na página inicial, tem informações relacionadas a empresa
+#### **Libatech**
 
-na página quem somos, é dito acerca da meta, visão e valores da empresa Labetech.
+Foi criado um site do tipo e-commerce com sistema de login integrado para uma loja de informática, com o nome fictício Libatech, onde o usuário visualiza os clientes cadastrados, fornecedores cadastrados e produtos cadastrados, bem como adicionar mais deles, como também realizar venda de produtos com emissão de nota fiscal eletrônicas
 
-Também é possível o usuário pode cadastrar um login para comprar produtos.
-
-Depois, pode acessar a área logada com email e senha.
-
-Ele somente comprar produtos após cadastrar um login.
-
-A loja virtual Labetech comercializa produtos de informática e acessórios.
-
-Na área logada, o cliente pode adicionar ao carrinho produtos que deseja comprar.
+Link do projeto: https://github.com/Eliabe-Ribeiro-22/Farma-Plus
 
 ### **2024**
 
