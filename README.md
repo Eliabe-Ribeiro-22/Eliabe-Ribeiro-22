@@ -12,15 +12,19 @@ Concluí o curso de **Programação Web** na *Code Universe* e fiz parte do **Tr
 
 ### ***2025***
 
-#### **Emporio_allegria**
+#### **Emporio_alegria**
 
-Foi criado um site de gestão de mercado com sistema de login integrado, com o nome fictício Emporio_alegrias, onde o usuário visualiza os clientes cadastrados, fornecedores cadastrados e produtos cadastrados, bem como adicionar mais deles, como também realizar venda de produtos com emissão de nota fiscal eletrônicas
+Foi criado um site de gestão de mercado com sistema de login integrado, com o nome fictício Emporio_alegria, onde o usuário visualiza os clientes cadastrados, fornecedores cadastrados e produtos cadastrados, bem como adicionar mais deles, como também realizar venda de produtos com emissão de nota fiscal eletrônicas.
+
+Link do projeto <https://github.com/Eliabe-Ribeiro-22/emporio_alegria>
 
 #### **Libatech**
 
-Foi criado um site do tipo e-commerce com sistema de login integrado para uma loja de informática, com o nome fictício Libatech, onde o usuário visualiza os clientes cadastrados, fornecedores cadastrados e produtos cadastrados, bem como adicionar mais deles, como também realizar venda de produtos com emissão de nota fiscal eletrônicas
+Foi criado um site do tipo e-commerce com sistema de login integrado para uma loja de informática, com o nome fictício Libatech, onde o usuário visualiza pode cadastrar um login para comprar produtos.
 
-Link do projeto: https://github.com/Eliabe-Ribeiro-22/Farma-Plus
+Depois, pode acessar a área logada com email e senha. A loja virtual Labetech comercializa produtos de informática e acessórios. Na área logada, o cliente pode adicionar ao carrinho produtos que deseja comprar.
+
+Link do projeto: <https://github.com/Eliabe-Ribeiro-22/Libatech>
 
 ### **2024**
 
