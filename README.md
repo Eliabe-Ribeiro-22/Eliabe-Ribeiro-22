@@ -1,7 +1,7 @@
 # ***Curriculum Vitae***
 
 Olá, prazer em te conhecer. Eu sou **Eliabe Ribeiro Mota**, especialista em TI. Sou dev pleno em **Desenvolvimento Web** e **Desenvolvimento de Sistemas**.
-
+Acesse meu portifólio digital <https://sites.google.com/view/eliabe-developer/página-inicial>
 Gosto de **desafios**, sou **comprometido** com o que faço e busco sempre atualizações em pesquisas na internet para estar sempre atualizado com a inovação tecnológica atual.
 
 Concluí o curso de **Programação Web** na *Code Universe* e fiz parte do **Treinamento Entra21 - Edição 2022 - Blusoft - ProWay**, na turma de **PHP/Laravel**.
