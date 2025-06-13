@@ -81,10 +81,6 @@ Projeto Online: <https://ap-vida.com>
 
 ### **2022**
 
-#### **adad-site **
-#### *Senai - JS - Backend*
-#### **Desenhe com imaginação**
-
 #### *API-Clima WeatherCode*
 
 Aplicação totalmente didática, onde foi desenvolvido uma plataforma que faz consumo de uma API externa, que traz informações sobre o clima da cidade pesquisada pelo usuário. Sendo que este projeto estudado no curso de Desenvolvimento Web na escola Code Universe. 
