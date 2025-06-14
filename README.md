@@ -151,7 +151,7 @@ O sistema gerencia as informações dos alunos participantes do grupo, sendo ace
 
 Online: <https://adadcampobelo.com>
 
-GitHub: projeto desenvolvido para cliente, porém o código-fonte foi mantido privado por acordo entre ambas as partes.
+GitHub: <https://github.com/Eliabe-Ribeiro-22/ProjetoADAD>
 
 ----
 
