@@ -127,6 +127,7 @@ GitHub: <https://github.com/Eliabe-Ribeiro-22/Back-end-JS-Senai>
 
 O game Desenhe com sua imaginação foi um projeto desenvolvido no curso de Lógica de Programação, na escola Sidy. Ele era bem simples, porém resolvi incluir mais cores ao jogo, conforme sugerido por minhas irmãs, que estão desfrutando desse jogo.
 
+Github: <https://github.com/Eliabe-Ribeiro-22/Desenhe_com_Imaginacao>
 Projeto Online: <http://smallbasic.com/program/?JDBM887.000>
 
 ----
