@@ -12,6 +12,24 @@ Concluí o curso de **Programação Web** na *Code Universe* e fiz parte do **Tr
 
 ## ***Meus Projetos:***
 
+### **2026**
+
+#### **EliabeTech - Sistema de Login**
+
+Foi criado um sistema de login com Angular, Express, Node e MySQL.
+Ele é público e pode ser usado em qualquer sistema que precise de uma tela de login.
+Uma futura feature será o login social, como Google, Apple, Outlook, e outros.
+Este projeto foi cocriado com uso de IA Generativa do Github Copilot.
+
+#### **ADAD - gestão de alunos**
+
+Foi criado um sistema para gerir alunos do projeto de escoteiros ADAD. Nele, o secretário pode acessar os alunos, cadastrar novos alunos, cadastrar notas e chamadas.
+gestão completa.
+o Projeto é público, open-source e democrático para todos.
+Também é totalmente gratuito!
+Este projeto foi cocriado com uso de IA Generativa do Github Copilot.
+
+
 ### ***2025***
 
 #### **Emporio_alegria**
