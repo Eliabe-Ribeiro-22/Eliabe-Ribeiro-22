@@ -18,7 +18,13 @@ Concluí o curso de **Programação Web** na *Code Universe* e fiz parte do **Tr
 
 Foi criado um sistema de login com Angular, Express, Node e MySQL.
 Ele é público e pode ser usado em qualquer sistema que precise de uma tela de login.
+Senhas armazenadas com bcrypt.
+Sessões em cookie JWT HttpOnly, SameSite=Strict e Secure em produção.
+Consultas MySQL parametrizadas e limitação de requisições.
+Tokens de confirmação com validade e uso único.
+
 Uma futura feature será o login social, como Google, Apple, Outlook, e outros.
+
 Este projeto foi cocriado com uso de IA Generativa do Github Copilot.
 
 Link do projeto: **<https://github.com/Eliabe-Ribeiro-22/ADAD-with-IA/tree/main>**
