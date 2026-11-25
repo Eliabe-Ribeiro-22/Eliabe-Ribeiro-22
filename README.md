@@ -21,6 +21,8 @@ Ele é público e pode ser usado em qualquer sistema que precise de uma tela de 
 Uma futura feature será o login social, como Google, Apple, Outlook, e outros.
 Este projeto foi cocriado com uso de IA Generativa do Github Copilot.
 
+Link do projeto: **<https://github.com/Eliabe-Ribeiro-22/ADAD-with-IA/tree/main>**
+
 #### **ADAD - gestão de alunos**
 
 Foi criado um sistema para gerir alunos do projeto de escoteiros ADAD. Nele, o secretário pode acessar os alunos, cadastrar novos alunos, cadastrar notas e chamadas.
@@ -29,6 +31,7 @@ o Projeto é público, open-source e democrático para todos.
 Também é totalmente gratuito!
 Este projeto foi cocriado com uso de IA Generativa do Github Copilot.
 
+Link do projeto: <https://github.com/Eliabe-Ribeiro-22/ADAD-with-IA/tree/main>
 
 ### ***2025***
 
