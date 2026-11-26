@@ -27,7 +27,7 @@ Uma futura feature será o login social, como Google, Apple, Outlook, e outros.
 
 Este projeto foi cocriado com uso de IA Generativa do Github Copilot.
 
-Link do projeto: **<https://github.com/Eliabe-Ribeiro-22/ADAD-with-IA/tree/main>**
+Link do projeto: **<https://github.com/Eliabe-Ribeiro-22/eliabetech-sistema-de-login>**
 
 #### **ADAD - gestão de alunos**
 
